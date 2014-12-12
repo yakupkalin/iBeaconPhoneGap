@@ -10,7 +10,6 @@ iBeacon PhoneGap Sample App using [cordova-plugin-ibeacon](https://github.com/pe
 ```
 cordova platforms add android
 ```
-
 ```
 cordova platforms add ios
 ```
@@ -21,12 +20,13 @@ The needed PhoneGap plugins will be automatically added during platform add.
 ```
 cordova platforms add android
 ```
-
 ```
 cordova platforms add ios
 ```
 
 #### 3. Install
+
+
 
 ### Simulating iBeacons
 
