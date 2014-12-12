@@ -1,0 +1,38 @@
+body {
+    background-color: seashell;
+    overflow-x: hidden; 
+}
+
+.center {
+    display: block;
+    text-align: center;
+}
+
+#logbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    background-color: indianred;
+}
+
+#log {
+    text-align: center;
+    font-size: 18pt;
+    font-family: verdana;
+    color: white;
+}
+
+#status {
+    margin-top: 100px;
+}
+
+#phone {
+    margin-top: 150px;
+    position:fixed;
+    bottom: 0;
+    left: 100px;
+    z-index: -99;
+}
