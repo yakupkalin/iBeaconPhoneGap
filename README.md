@@ -32,7 +32,7 @@ cordova platforms add ios
 
 If you don't have any iBeacons, you can use your iPhone or iPad to create a virtual iBeacon.
 
-You can use the [estimote iOS app](https://itunes.apple.com/us/app/estimote/id686915066?mt=8) or the [GG Virtual iBeacon app](https://itunes.apple.com/us/app/gg-virtual-ibeacon/id867470259?mt=8)
+You can use the [estimote iOS app](https://itunes.apple.com/us/app/estimote/id686915066?mt=8) or the [GG Virtual iBeacon app](https://itunes.apple.com/us/app/gg-virtual-ibeacon/id867470259?mt=8).
 
 ### Screenshots
 
@@ -40,4 +40,4 @@ You can use the [estimote iOS app](https://itunes.apple.com/us/app/estimote/id68
 
 ![Range near](/screenshots/Beacon-in-range-near.png)
 
-![Range not in range](/screenshots/Beacon-not-range.png)
+![Range not in range](/screenshots/Beacon-not-in-range.png)
